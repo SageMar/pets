@@ -1,0 +1,13 @@
+{
+  "name": "smarkwardt/328/pets",
+  "authors": [
+    {
+      "name": "Sage Markwardt",
+      "email": "sagemarkwardt@gmail.com"
+    }
+  ],
+  "require":
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
